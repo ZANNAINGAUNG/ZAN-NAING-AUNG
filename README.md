@@ -6,11 +6,17 @@
 
 📊 On my GitHub, you’ll find projects like:
 
-NYC Airbnb Market Analysis (Excel-based investment insights)
+# TripleTen_projects
+Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
-Superstore Profitability & Return Dashboard (Advanced Excel)
 
-3D Scanner with Raspberry Pi (IoT + 3D modeling for medical applications)
+| Project number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 1 | NYC Airbnb Analysis| This project analyzed Manhattan's vacation rental data to uncover investment opportunities by evaluating rental income trends across different neighborhoods and unit types.|
+| 2 | E-commerce Analysis| This project analyzed a mid-sized e-commerce company’s conversion funnel and user retention trends to identify friction points in the customer journey and opportunities to enhance revenue.|
+| 3 | Superstore Analysis | This analysis explored a superstore’s product return trends to uncover root causes and regional patterns. By examining return rates across product categories and locations, the project aimed to identify operational inefficiencies and recommend improvements. |
+| 4 | Zomato Analysis | This project analyzed Zomato, a leading food delivery and restaurant discovery platform, to uncover performance patterns and drive strategic recommendations. Using Tableau dashboards, I examined six key areas: sales by restaurant, most ordered items, sales by weekday, hourly trends, total sales over time, and average order value. The goal was to provide actionable insights to improve restaurant partnerships, menu strategy, and user engagement.|
+
 
 🚗 I’m passionate about combining technical precision, business understanding, and visual storytelling to drive smarter decision-making, especially in areas like autonomous vehicles and advanced manufacturing.
 
@@ -18,5 +24,4 @@ Superstore Profitability & Return Dashboard (Advanced Excel)
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=https://github.com/ZANNAINGAUNG alt=https://github.com/ZANNAINGAUNG /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ZANNAINGAUNG&show_icons=true&include_all_commits=true)](https://github.com/https://github.com/ZANNAINGAUNG/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ZANNAINGAUNG&layout=compact)](https://github.com/https://github.com/ZANNAINGAUNG/github-readme-stats)
+
