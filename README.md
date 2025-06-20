@@ -34,7 +34,7 @@ I’m passionate about blending **technical precision**, **business insight**, a
 ## 📬 Let’s Connect
 
 - 📍 Based in NYC — open to relocation or hybrid/remote roles in nearby areas.
-- 📝 View my [Resume](https://docs.google.com/document/d/1V4rgtUH7Uj3IvqqaKsMrFLE2y5S0h8Xvhu4hixR0K7nQ/edit?usp=sharing)
+- 📝 View my [Resume]([https://docs.google.com/document/d/1V4rgtUH7Uj3IvqqaKsMrFLE2y5S0h8Xvhu4hixR0K7nQ/edit?usp=sharing](https://docs.google.com/document/d/1i5KFC2ADwqktX-I-xh6Qkc9jyh7rHiMKFX8cFjhjxRk/edit?usp=drive_link))
 - 🤝 Reach out anytime via [Email](mailto:mr.zan2019@gmail.com) or [LinkedIn](https://www.linkedin.com/in/zan-naing-aung)
 
 ---
