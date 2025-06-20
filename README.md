@@ -4,9 +4,7 @@ Hi, I’m Zan Naing Aung — a results-driven Data Analyst with 4+ years of expe
 
 📊 On my GitHub, you’ll find projects like:
 
-# TripleTen_projects=>[![Github stats](https://github-readme-stats.vercel.app/api?username=ZANNAINGAUNG&show_icons=true&include_all_commits=true)](https://github.com/ZANNAINGAUNG/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZANNAINGAUNG&layout=compact)](https://github.com/ZANNAINGAUNG/github-readme-stats)
-Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
+# TripleTen_projects=>https://github.com/ZANNAINGAUNG/TripleTen-Data-Analyst-Projects
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
