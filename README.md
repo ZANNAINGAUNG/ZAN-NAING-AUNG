@@ -1,21 +1,37 @@
-Hi, I’m Zan Naing Aung — a results-driven Data Analyst with 4+ years of experience turning complex data into actionable insights. I bring a strong foundation in Electrical Engineering and hands-on experience in the semiconductor, retail, and autonomous systems sectors.
+Hi, I’m **Zan Naing Aung** — a results-driven Data Analyst with 4+ years of experience transforming complex data into actionable insights. I have a strong foundation in Electrical Engineering and hands-on expertise in data analytics.
 
-🔧 Skilled in SQL, Tableau, Python, Power BI, and Advanced Excel, I specialize in uncovering trends, building dashboards, and optimizing processes through real-world and simulation data. I’ve completed multiple applied projects through the TripleTen bootcamp and earned multiple performance awards during my time at GlobalFoundries.
+---
 
-📊 On my GitHub, you’ll find projects like:
+## 🛠️ Skills
 
-# TripleTen_projects=>https://github.com/ZANNAINGAUNG/TripleTen-Data-Analyst-Projects
+- **SQL** • **Tableau** • **Python** • **Power BI** • **Advanced Excel**
+- Experienced in uncovering trends, building intuitive dashboards, and optimizing business processes using both real-world and simulation data.
 
-| Project number | Title | Description |
-| :-----------: | ----------- |----------- |
-| 1 | NYC Airbnb Analysis| This project analyzed Manhattan's vacation rental data to uncover investment opportunities by evaluating rental income trends across different neighborhoods and unit types.|
-| 2 | E-commerce Analysis| This project analyzed a mid-sized e-commerce company’s conversion funnel and user retention trends to identify friction points in the customer journey and opportunities to enhance revenue.|
-| 3 | Superstore Analysis | This analysis explored a superstore’s product return trends to uncover root causes and regional patterns. By examining return rates across product categories and locations, the project aimed to identify operational inefficiencies and recommend improvements. |
-| 4 | Zomato Analysis | This project analyzed Zomato, a leading food delivery and restaurant discovery platform, to uncover performance patterns and drive strategic recommendations. Using Tableau dashboards, I examined six key areas: sales by restaurant, most ordered items, sales by weekday, hourly trends, total sales over time, and average order value. The goal was to provide actionable insights to improve restaurant partnerships, menu strategy, and user engagement.|
+---
 
+## 📂 Featured Projects
 
-🚗 I’m passionate about combining technical precision, business understanding, and visual storytelling to drive smarter decision-making, especially in areas like autonomous vehicles and advanced manufacturing.
+Explore more: [TripleTen Data Analyst Projects](https://github.com/ZANNAINGAUNG/TripleTen-Data-Analyst-Projects)
 
-📬 Open to opportunities and collaboration in NYC and nearby areas. Let’s connect!</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1V4rgtUH7Uj3IvqqaKsMrFCYu2NFgtZQ55Tl4y0jI8NE/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
+| Project | Title | Description |
+|:-------:|:------|:------------|
+| 1 | NYC Airbnb Analysis | Analyzed Manhattan’s vacation rental data to identify investment opportunities by evaluating rental income trends across neighborhoods and unit types. |
+| 2 | E-commerce Analysis | Examined a mid-sized e-commerce company’s conversion funnel and user retention to identify friction points and opportunities for growth. |
+| 3 | Superstore Analysis | Explored product return trends in a superstore, uncovering root causes and regional patterns by examining return rates across categories and locations. |
+| 4 | Zomato Analysis | Analyzed Zomato’s business performance to provide strategic recommendations, leveraging Tableau dashboards and deep data exploration. |
 
+---
 
+## 🚗 About Me
+
+I’m passionate about combining technical precision, business understanding, and visual storytelling to drive smarter decision-making—especially in fields like autonomous vehicles and advanced analytics.
+
+---
+
+## 📬 Let’s Connect
+
+- Open to opportunities and collaborations in NYC and nearby areas.
+- View my [resume](https://docs.google.com/document/d/1V4rgtUH7Uj3IvqqaKsMrFLE2y5S0h8Xvhu4hixR0K7nQ/edit?usp=sharing).
+- Feel free to reach out!
+
+---
