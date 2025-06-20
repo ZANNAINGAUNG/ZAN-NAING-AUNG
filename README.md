@@ -21,7 +21,5 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 🚗 I’m passionate about combining technical precision, business understanding, and visual storytelling to drive smarter decision-making, especially in areas like autonomous vehicles and advanced manufacturing.
 
 📬 Open to opportunities and collaboration in NYC and nearby areas. Let’s connect!</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1V4rgtUH7Uj3IvqqaKsMrFCYu2NFgtZQ55Tl4y0jI8NE/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=https://github.com/ZANNAINGAUNG alt=https://github.com/ZANNAINGAUNG /> </p>
 
 
