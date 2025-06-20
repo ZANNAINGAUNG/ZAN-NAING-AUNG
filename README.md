@@ -9,7 +9,6 @@
 # TripleTen_projects
 Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
-
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | NYC Airbnb Analysis| This project analyzed Manhattan's vacation rental data to uncover investment opportunities by evaluating rental income trends across different neighborhoods and unit types.|
